@@ -1,0 +1,14 @@
+# git history files
+.history_rewritten_*
+# Eclipse artifacts
+.project
+.pydevproject
+#Vagrant
+pkg/
+bin/
+# Intellij
+*.txt
+.idea/
+# Visual Studio Code
+.vscode/
+src/github.com
